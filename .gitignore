@@ -1,0 +1,8 @@
+# general
+logs/
+oldfiles/
+main.exe
+
+# sensitive
+evan.pem
+config.go
